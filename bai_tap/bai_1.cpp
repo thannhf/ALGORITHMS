@@ -51,10 +51,10 @@ private:
     std::string subject;
 
 public:
-    Teacher(std::string name, int age, std::string subject)
-        : Person(name, age), subject(subject) {}
-
-    std::string getSubject() const { return subject; }
+    Teacher(std::string name, int age, std::string subject) : Person(name, age), subject(subject) {}
+    std::string getSubject() const { 
+        return subject; 
+    }
 };
 
 class Subject {

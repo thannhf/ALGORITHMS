@@ -1,6 +1,6 @@
-Bài tập 1.3. Cho A là tập hợp con của tập số thực, cận dưới đúng x0 của A kí hiệu Inf(A) = x0 có thể xác định bởi mệnh đề sau: 
-“ Với mọi x trong A có x0 ≤ x và với x1 có tính chất là x1 ≤ x với mọi x trong A thì suy ra x1 ≤ x0 ”. Hãy dùng các kí hiệu để 
-diễn tả mệnh đề trên và mệnh đề phủ định của nó. Từ đó đưa ra cách chứng minh một số không phải là Inf(A).
+// Bài tập 1.3. Cho A là tập hợp con của tập số thực, cận dưới đúng x0 của A kí hiệu Inf(A) = x0 có thể xác định bởi mệnh đề sau: 
+// “ Với mọi x trong A có x0 ≤ x và với x1 có tính chất là x1 ≤ x với mọi x trong A thì suy ra x1 ≤ x0 ”. Hãy dùng các kí hiệu để 
+// diễn tả mệnh đề trên và mệnh đề phủ định của nó. Từ đó đưa ra cách chứng minh một số không phải là Inf(A).
 
 #include <iostream>
 #include <vector>
